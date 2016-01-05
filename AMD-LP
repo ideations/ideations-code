@@ -1,0 +1,1098 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- viewport meta to reset iPhone inital scale -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+
+
+  <!-- css3-mediaqueries.js for IE8 or older -->
+
+<!--[if lt IE 9]>
+
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+
+<![endif]-->
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Improve IT Efficiency and Reduce Your Overhead with Private Clouds</title>
+<!-- Begin JavaScript -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+<script type="text/javascript">
+function SCLoad(){
+document.write('<s' + 'cript src="http://www.amd.com/us/as/custom.js' + '" type="text/javascript">' + '<\/s' + 'cript>');
+document.write('<s' + 'cript src="http://www.amd.com/us/as/scode_eloqua.js' + '" type="text/javascript">' + '<\/s' + 'cript>');}
+function SCTrack(){ var s_code=s.t();
+if(s_code) document.write(s_code);
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
+}
+</script>
+<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+<script src="http://img.en25.com/Web/AdvancedMicroDevicesAMDMAE/{ed035eff-d8c1-4adc-9b14-5a4c9adc68b9}_SpryValidationTextField.js" type="text/javascript"></script>
+		<script src="http://img.en25.com/Web/AdvancedMicroDevicesAMDMAE/{e0979860-5991-4a60-80f3-802841ffd810}_SpryValidationSelect.js" type="text/javascript"></script>
+		<link href="http://img.en25.com/Web/AdvancedMicroDevicesAMDMAE/{7a90656a-43fa-44d7-aa80-855d1862f136}_SpryValidationTextField.css" rel="stylesheet" type="text/css">
+		<link href="http://img.en25.com/Web/AdvancedMicroDevicesAMDMAE/{eb524e6d-54a4-4ad0-9a2e-edf86141b70d}_SpryValidationSelect.css" rel="stylesheet" type="text/css">
+    <!-- BEGIN script for ShareThis functionality -->
+        <script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'ea40568e-2c86-4706-8ff9-5a86034ed940'});</script>
+    <!-- END script for ShareThis functionality  -->
+
+<style>
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.85em;
+	background-color: #333;
+	margin:0px;
+}
+
+#container{
+width:968px;
+margin-top:10px;
+height:auto;
+margin-left:auto;
+margin-right:auto;
+
+background-color:#FFF;
+padding:10px;
+
+
+}
+
+#main{
+width:100%;
+margin-top:10px;
+margin-bottom:10px;
+
+}
+
+#middle{
+	width:100%;
+	display:block;
+	float:left;
+	clear:both;
+}
+.footer1 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 968px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+	font-size: .7em;
+	padding-top: 15px;
+}
+
+#content{
+	width:100%;
+	height:auto;
+	float:left;
+	clear:left;
+	display:block;
+	margin:6px;
+
+}
+
+.rightForm{
+	width:300px;
+	height:auto;
+	float:right;
+	clear:right;
+	display:block;
+	padding:8px;
+	background-color:#096;
+	color:#FFF;
+	overflow:auto;
+	padding-top:0px;
+}
+form table tr {
+   height:40px;	
+}
+form table tr:last-child {
+   height:60px;
+   vertical-align:top;
+}
+form table tr:first-child {
+   height:30px;
+}
+form p:last-child {
+   padding:0px;
+   margin-left:0px;
+}
+#footnotes{
+	width: 100%;
+	font-size: 0.7em;
+	margin-top: 10px;
+	padding-top: 10px;
+	/* [disabled]margin-bottom:10px; */
+	/* [disabled]padding-bottom: 10px; */
+}
+
+.aside{
+	background-color:#096;
+	padding:10px;
+	float:right;
+	width:40%;
+	color:#FFF;
+	margin:10px;
+}
+
+
+#top{
+display:none;
+}
+
+#banner h1{
+	display:none;
+}
+
+#banner h1 span{
+	font-size:16px;
+}
+
+.par1 img{
+float:left;
+margin-right:20px;
+display:block;
+}
+
+.par1 p{
+float:left;
+width:55%;
+  /* margin-left:20px; */
+display:block;
+}
+
+
+.par1{
+	display:block;
+	float:left;
+	margin-bottom:10px;
+	padding-bottom:10px;
+	width:100%;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #666;
+
+
+}
+
+#coda-slider-wrapper {
+	width: 100%;
+	float: left;
+	overflow: hidden;
+	position: relative;
+	background-color: #FFF;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+
+#coda-slider-1{
+
+	position: relative;
+	left:0px;
+}
+
+
+.panel{
+	float:left;
+	width:100%;
+}
+
+.panel-inner{
+	float:left;
+	width:640px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+	line-height: 1.5em;
+	padding-left: 10px;
+	padding-right: 0px;
+}
+.panel-inner h3{
+	margin-top:10px;
+}
+#coda-nav-1, #coda-nav-bottom{
+	width:100%;
+
+	float:left;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #666;
+}
+
+#coda-nav-bottom{
+display:none;
+}
+
+#coda-nav-1 ul, #coda-nav-bottom ul{
+	list-style: none;
+	margin: 0;
+	margin-left:-35px;
+	list-style-image:none;
+
+	top: 0;
+
+}
+
+#coda-nav-1 ul li, #coda-nav-bottom ul li{
+margin-left:5px;
+float:left;
+}
+
+#coda-nav-1 ul li a, #coda-nav-bottom ul li a{
+	float: left;
+	display: block;
+
+
+
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-right:10px;
+	padding-left:10px;
+	background-color: #666666;
+	border-radius: 6px 6px 0px 0px;
+	margin-right: 2px;
+	color:#FFF;
+	cursor:pointer;
+	text-decoration: none;
+
+}
+
+#coda-nav-1 ul li a.static, #coda-nav-bottom ul li a.static{
+	background-color: #666666;
+}
+
+#coda-nav-1 ul li a.current, #coda-nav-bottom ul li a.current{
+	background-color: #000;
+}
+
+
+@media screen and (max-width: 980px){
+
+#container{
+width:100%;
+padding:0px;
+margin-top:0px;
+
+}
+.footer1{
+width:100%;
+padding:0px;
+margin-top:0px;
+
+}
+#banner img{width:100%;	}
+
+.rightForm{
+width:35%;
+	overflow:auto;
+}
+
+.panel-inner{
+	float:left;
+	width:58%;
+	padding-right: 5px;
+}
+
+	h3, h4{
+		margin-left:5px;
+	}
+
+#content{
+	width:100%;
+
+}
+.asset-image {
+	display: block;
+}
+.par1 img{
+float:left;
+width:40%;
+margin-right:10px;
+display:block;
+}
+
+.par1 p{
+float:left;
+width:50%;
+margin-right:0px;
+display:block;
+margin-left:0px;
+margin-top:10px;
+}
+
+}
+
+
+
+/* for 680px or less */
+@media screen and (max-width: 580px){
+
+	#banner img{display:none;	}
+
+	#banner{
+
+	}
+
+	#banner h1{display:block;	margin-left:5px;}
+
+	h3, h4{
+		margin-left:5px;
+	}
+
+	#top{
+		width:100%
+		height:40px;
+		padding-top:5px;
+		padding-bottom:5px;
+
+display:block;
+background-color:#000;
+}
+
+
+
+#middle{
+	width:100%;
+	display:block;
+	float:none;
+	clear:both;
+}
+
+#content{
+	width:100%;
+	height:auto;
+	float:none;
+	clear:none;
+	display:block;
+	margin:0px;
+
+}
+
+
+.panel-inner{
+	float:none;
+	width:95%;
+	padding-right:10px;
+}
+
+.rightForm{
+width:100%;
+float:none;
+clear:none;
+padding:0px;
+padding-top:5px;
+	overflow:auto;
+}
+
+.rightForm h2, .rightForm p, .rightForm form{
+	margin:10px;
+}
+
+.asset-image {
+	display: none;
+}
+.par1 img{
+float:left;
+width:50%;
+margin-right:10px;
+display:block;
+margin-left:0px;
+}
+
+.par1 p{
+float:left;
+width:45%;
+margin-right:0px;
+margin-top:0px;
+display:block;
+margin-left:0px;
+margin-top:10px;
+}
+
+.coda-slider-wrapper {
+
+}
+
+#coda-nav-1 ul li a, #coda-nav-bottom ul li a{
+
+
+
+
+}
+
+#coda-nav-1{
+
+
+}
+
+
+
+}
+
+@media screen and (max-width: 380px){
+
+	.par1 img{
+float:none;
+margin-left:0px;
+margin-right:0px;
+display:block;
+width:100%;
+margin-bottom:0px;
+}
+
+.par1 p{
+float:none;
+width:95%;
+padding-right:5px;
+padding-left:5px;
+display:block;
+margin-left:0px;
+margin-top:10px;
+}
+.asset-image {
+	display: none;
+}
+#coda-nav-bottom{
+display:block;
+border-bottom-width: 0px;
+	border-bottom-style: solid;
+	border-bottom-color: #666;
+
+	padding-bottom:10px;
+}
+
+}
+
+.panel-inner1 {
+	float:left;
+	width:680px;
+}
+.panel-inner1 {	float:left;
+	width:58%;
+}
+.panel-inner1 {	float:none;
+	width:100%;
+}
+.par11 {	display:block;
+	float:left;
+	margin-bottom:10px;
+	padding-bottom:10px;
+	width:100%;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #666;
+}
+.rightForm1 {	width:250px;
+	height:auto;
+	float:right;
+	clear:right;
+	display:block;
+	padding:8px;
+	background-color:#096;
+	color:#FFF;
+}
+.rightForm1 {width:35%;
+}
+.rightForm1 {width:100%;
+float:none;
+clear:none;
+padding:0px;
+}
+
+</style>
+
+<script type="text/javascript">
+	var Slider;
+	var Panels;
+	var current = 0;
+	var Tabs;
+	var Tab;
+	var Tabs2;
+	var Tab2;
+	var Panels;
+
+ function getByClass(classname) {
+    var elArray = [];
+    var tmp = Slider.getElementsByTagName("*");
+	//alert(classname);
+    var regex = new RegExp("(^|\s)" + classname + "(\s|$)");
+    for ( var i = 0; i < tmp.length; i++ ) {
+
+        if ( regex.test(tmp[i].className) ) {
+            elArray.push(tmp[i]);
+        }
+    }
+	//alert(elArray.length);
+    return elArray;
+}
+
+ function tabNav(num){
+	// alert(myWidth);
+	Panels[current].style.display = "none";
+	var oldTab = Tab[current];
+	$(oldTab).removeClass("current");
+	current = num;
+	//alert(current);
+	Panels[current].style.display = "block";
+	//Tab[current].style.display = "block";
+
+
+	var newTab = Tab[current];
+	$(newTab).addClass("current");
+
+}
+
+function start() {
+	Slider = document.getElementById('coda-slider-1');
+	Panels = getByClass('panel');
+
+	Tabs = document.getElementById('coda-nav-1');
+	Tab = Tabs.getElementsByTagName('a');
+
+	for(var i = 0; i < Panels.length; i++){
+		if(i != 0){
+		Panels[i].style.display = "none";
+		}
+	}
+	
+	 if(window.location.hash) {
+		 var hash = window.location.hash.substring(1); 
+		 tabNav(hash - 1);
+
+	} 
+}
+		 </script>
+
+	<!-- End JavaScript -->
+
+</head>
+
+<body onload="start();">
+
+<div id="container">
+<a name="1"></a>
+<a name="2"></a>
+<a name="top"></a>
+<div id="top"><img src="http://img.en25.com/Web/AdvancedMicroDevicesAMDMAE/{06740c79-671a-429b-8418-f1520cf951a1}_amd_logo.png"></div>
+
+<div id="banner">
+
+<img src="images/header.jpg">
+</div>
+
+
+
+
+
+<div id="main">
+
+<div id="middle">
+  <div id="coda-slider-wrapper">
+    <div class="coda-slider preload" id="coda-slider-1">
+      <div id="coda-slider-wrapper2">
+        <div class="coda-slider preload" id="coda-slider-2">
+          <div class="panel" id="Panel-1">
+            <div class="panel-inner">
+<div class="asset-image"><img src="images/WP.jpg" width="172" height="220" hspace="10" align="right" /></div>
+Faced with fast-moving competition across unpredictable global markets, businesses today expect IT to help provide a competitive edge as never before. <br /><br />
+So, IT executives are adopting private cloud technologies that can achieve the performance and cost-effectiveness of a <a style="color:#096" href="http://sites.amd.com/us/business/it-solutions/virtualization/Pages/virtualization.aspx">virtualized</a> infrastructure through higher workload density and greater resource utilization. <br /><br />
+<a style="color:#096; font-size:.98em" href="http://sites.amd.com/us/business/it-solutions/cloud-computing/Pages/cloud-computing.aspx"><strong>>> Get the world's first comprehensive cloud portfolio from AMD </strong></a><br /><br />
+To learn more, submit this brief form and download the new white paper from AMD, Microsoft<sup>®</sup> and HP<sup>®</sup>, <em>The Potential Business Benefits of a Private Cloud-based Database Appliance</em>. You'll learn why IT professionals are implementing private clouds to reap the benefits of database consolidation. </div>
+            <div class="rightForm">
+              <form id="form0" method="post" name="reneeJ" action="http://now.eloqua.com/e/f2.aspx">
+                <input value="reneeJ" type="hidden" name="elqFormName">
+                <input type="hidden" name="elqSiteID" value="2330">
+                <input name="elqCampaignId" type="hidden">
+                <input value="cloud" name="source" type="hidden">
+                <input name="scEvent" value="PDF" type="hidden">
+                <table id="f0" width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                  <tr>
+                    <td><input id="field0" value="1" name="contactImmediately" type="checkbox">
+                      Yes, I want to receive updates on AMD server products</td>
+                  </tr>
+                  <tr>
+                    <td> *Business Email: <br>
+                      <span id="sprytextcompany">
+                        <input style="width:95%" value="<eloqua type='emailfield' syntax='EmailAddress' />" type="text" id="emailAddress0" name="emailAddress">
+                        <br>
+                        <span class="textfieldRequiredMsg">An email address is required.</span><span class="textfieldInvalidFormatMsg">Invalid email address format.</span></span></td>
+                  </tr>
+                  <tr>
+                    <td>*First Name: <br>
+                      <span id="sprytextfield1">
+                        <input style="width:95%" id="firstName0" value="<eloqua type='emailfield' syntax='FirstName' />" type="text" name="firstName">
+                        <br>
+                        <span class="textfieldRequiredMsg">A value is required.</span></span></td>
+                  </tr>
+                  <tr>
+                    <td> *Last Name: <br>
+                      <span id="sprytextfield2">
+                        <input style="width:95%" id="lastName0" value="<eloqua type='emailfield' syntax='LastName' />" type="text" name="lastName">
+                        <br>
+                        <span class="textfieldRequiredMsg">A value is required.</span></span></td>
+                  </tr>
+                  <tr>
+                    <td>*Company: <br>
+                      <span id="sprytextfield3">
+                        <input style="width:95%" id="company0" value="<eloqua type='emailfield' syntax='Company' />" type="text" name="company">
+                        <br>
+                        <span class="textfieldRequiredMsg">A value is required.</span></span></td>
+                  </tr>
+                  <tr>
+                    <td> *Country: <br>
+                      <span id="spryselect1">
+                        <select id="country0" name="country" title="<eloqua type='emailfield' syntax='Country' />" class="" style="width: 95%">
+                          <option id="field66" value="" name="country">Please select</option>
+                          <option id="field66" value="US" name="country">United States</option>
+                          <option id="field66" value="GB" name="country">United Kingdom</option>
+                          <option id="field66" value="CA" name="country">Canada</option>
+                          <option id="field66" value="IN" name="country">India</option>
+                          <option id="field66" value="NL" name="country">Netherlands</option>
+                          <option id="field66" value="AU" name="country">Australia</option>
+                          <option id="field66" value="ZA" name="country">South Africa</option>
+                          <option id="field66" value="FR" name="country">France</option>
+                          <option id="field66" value="DE" name="country">Germany</option>
+                          <option id="field66" value="SG" name="country">Singapore</option>
+                          <option id="field66" value="SE" name="country">Sweden</option>
+                          <option id="field66" value="BR" name="country">Brazil</option>
+                          <option id="field66" value="" name="country">--------------</option>
+                          <option id="field66" value="AF" name="country">Afghanistan</option>
+                          <option id="field66" value="AX" name="country">?land Islands</option>
+                          <option id="field66" value="AL" name="country">Albania</option>
+                          <option id="field66" value="DZ" name="country">Algeria</option>
+                          <option id="field66" value="AS" name="country">American Samoa</option>
+                          <option id="field66" value="AD" name="country">Andorra</option>
+                          <option id="field66" value="AO" name="country">Angola</option>
+                          <option id="field66" value="AI" name="country">Anguilla</option>
+                          <option id="field66" value="AQ" name="country">Antarctica</option>
+                          <option id="field66" value="AG" name="country">Antigua and Barbuda</option>
+                          <option id="field66" value="AR" name="country">Argentina</option>
+                          <option id="field66" value="AM" name="country">Armenia</option>
+                          <option id="field66" value="AW" name="country">Aruba</option>
+                          <option id="field66" value="AU" name="country">Australia</option>
+                          <option id="field66" value="AT" name="country">Austria</option>
+                          <option id="field66" value="AZ" name="country">Azerbaijan</option>
+                          <option id="field66" value="BS" name="country">Bahamas</option>
+                          <option id="field66" value="BH" name="country">Bahrain</option>
+                          <option id="field66" value="BD" name="country">Bangladesh</option>
+                          <option id="field66" value="BB" name="country">Barbados</option>
+                          <option id="field66" value="BY" name="country">Belarus</option>
+                          <option id="field66" value="BE" name="country">Belgium</option>
+                          <option id="field66" value="BZ" name="country">Belize</option>
+                          <option id="field66" value="BJ" name="country">Benin</option>
+                          <option id="field66" value="BM" name="country">Bermuda</option>
+                          <option id="field66" value="BT" name="country">Bhutan</option>
+                          <option id="field66" value="BO" name="country">Bolivia</option>
+                          <option id="field66" value="BA" name="country">Bosnia and Herzegovina</option>
+                          <option id="field66" value="BW" name="country">Botswana</option>
+                          <option id="field66" value="BV" name="country">Bouvet Island</option>
+                          <option id="field66" value="BR" name="country">Brazil</option>
+                          <option id="field66" value="IO" name="country">Brit/Indian Ocean Terr.</option>
+                          <option id="field66" value="BN" name="country">Brunei Darussalam</option>
+                          <option id="field66" value="BG" name="country">Bulgaria</option>
+                          <option id="field66" value="BF" name="country">Burkina Faso</option>
+                          <option id="field66" value="BI" name="country">Burundi</option>
+                          <option id="field66" value="KH" name="country">Cambodia</option>
+                          <option id="field66" value="CM" name="country">Cameroon</option>
+                          <option id="field66" value="CA" name="country">Canada</option>
+                          <option id="field66" value="CV" name="country">Cape Verde</option>
+                          <option id="field66" value="KY" name="country">Cayman Islands</option>
+                          <option id="field66" value="CF" name="country">Central African Republic</option>
+                          <option id="field66" value="TD" name="country">Chad</option>
+                          <option id="field66" value="CL" name="country">Chile</option>
+                          <option id="field66" value="CN" name="country">China</option>
+                          <option id="field66" value="CX" name="country">Christmas Island</option>
+                          <option id="field66" value="CC" name="country">Cocos (Keeling) Islands</option>
+                          <option id="field66" value="CO" name="country">Colombia</option>
+                          <option id="field66" value="KM" name="country">Comoros</option>
+                          <option id="field66" value="CG" name="country">Congo</option>
+                          <option id="field66" value="CD" name="country">Congo, The Dem. Republic Of</option>
+                          <option id="field66" value="CK" name="country">Cook Islands</option>
+                          <option id="field66" value="CR" name="country">Costa Rica</option>
+                          <option id="field66" value="CI" name="country">C?te D'Ivore</option>
+                          <option id="field66" value="HR" name="country">Croatia</option>
+                          <option id="field66" value="CU" name="country">Cuba</option>
+                          <option id="field66" value="CY" name="country">Cyprus</option>
+                          <option id="field66" value="CZ" name="country">Czech Republic</option>
+                          <option id="field66" value="DK" name="country">Denmark</option>
+                          <option id="field66" value="DJ" name="country">Djibouti</option>
+                          <option id="field66" value="DM" name="country">Dominica</option>
+                          <option id="field66" value="DO" name="country">Dominican Republic</option>
+                          <option id="field66" value="EC" name="country">Ecuador</option>
+                          <option id="field66" value="EG" name="country">Egypt</option>
+                          <option id="field66" value="SV" name="country">El Salvador</option>
+                          <option id="field66" value="GQ" name="country">Equatorial Guinea</option>
+                          <option id="field66" value="ER" name="country">Eritrea</option>
+                          <option id="field66" value="EE" name="country">Estonia</option>
+                          <option id="field66" value="ET" name="country">Ethiopia</option>
+                          <option id="field66" value="FK" name="country">Falkland Islands</option>
+                          <option id="field66" value="FO" name="country">Faroe Islands</option>
+                          <option id="field66" value="FJ" name="country">Fiji</option>
+                          <option id="field66" value="FI" name="country">Finland</option>
+                          <option id="field66" value="FR" name="country">France</option>
+                          <option id="field66" value="GF" name="country">French Guiana</option>
+                          <option id="field66" value="PF" name="country">French Polynesia</option>
+                          <option id="field66" value="TF" name="country">French Southern Terr.</option>
+                          <option id="field66" value="GA" name="country">Gabon</option>
+                          <option id="field66" value="GM" name="country">Gambia</option>
+                          <option id="field66" value="GE" name="country">Georgia</option>
+                          <option id="field66" value="DE" name="country">Germany</option>
+                          <option id="field66" value="GH" name="country">Ghana</option>
+                          <option id="field66" value="GI" name="country">Gibraltar</option>
+                          <option id="field66" value="GB" name="country">United Kingdom</option>
+                          <option id="field66" value="GR" name="country">Greece</option>
+                          <option id="field66" value="GL" name="country">Greenland</option>
+                          <option id="field66" value="GD" name="country">Grenada</option>
+                          <option id="field66" value="GP" name="country">Guadeloupe</option>
+                          <option id="field66" value="GU" name="country">Guam</option>
+                          <option id="field66" value="GT" name="country">Guatemala</option>
+                          <option id="field66" value="GN" name="country">Guinea</option>
+                          <option id="field66" value="GW" name="country">Guinea-Bissau</option>
+                          <option id="field66" value="GY" name="country">Guyana</option>
+                          <option id="field66" value="HT" name="country">Haiti</option>
+                          <option id="field66" value="HM" name="country">Heard/McDonald Isls.</option>
+                          <option id="field66" value="HN" name="country">Honduras</option>
+                          <option id="field66" value="HK" name="country">Hong Kong</option>
+                          <option id="field66" value="HU" name="country">Hungary</option>
+                          <option id="field66" value="IS" name="country">Iceland</option>
+                          <option id="field66" value="IN" name="country">India</option>
+                          <option id="field66" value="ID" name="country">Indonesia</option>
+                          <option id="field66" value="IR" name="country">Iran</option>
+                          <option id="field66" value="IQ" name="country">Iraq</option>
+                          <option id="field66" value="IE" name="country">Ireland</option>
+                          <option id="field66" value="IL" name="country">Israel</option>
+                          <option id="field66" value="IT" name="country">Italy</option>
+                          <option id="field66" value="JM" name="country">Jamaica</option>
+                          <option id="field66" value="JP" name="country">Japan</option>
+                          <option id="field66" value="JO" name="country">Jordan</option>
+                          <option id="field66" value="KZ" name="country">Kazakhstan</option>
+                          <option id="field66" value="KE" name="country">Kenya</option>
+                          <option id="field66" value="KI" name="country">Kiribati</option>
+                          <option id="field66" value="KP" name="country">Korea (North)</option>
+                          <option id="field66" value="KR" name="country">Korea (South)</option>
+                          <option id="field66" value="KW" name="country">Kuwait</option>
+                          <option id="field66" value="KG" name="country">Kyrgyzstan</option>
+                          <option id="field66" value="LA" name="country">Laos</option>
+                          <option id="field66" value="LV" name="country">Latvia</option>
+                          <option id="field66" value="LB" name="country">Lebanon</option>
+                          <option id="field66" value="LS" name="country">Lesotho</option>
+                          <option id="field66" value="LR" name="country">Liberia</option>
+                          <option id="field66" value="LY" name="country">Libya</option>
+                          <option id="field66" value="LI" name="country">Liechtenstein</option>
+                          <option id="field66" value="LT" name="country">Lithuania</option>
+                          <option id="field66" value="LU" name="country">Luxembourg</option>
+                          <option id="field66" value="MO" name="country">Macau</option>
+                          <option id="field66" value="MK" name="country">Macedonia</option>
+                          <option id="field66" value="MG" name="country">Madagascar</option>
+                          <option id="field66" value="MW" name="country">Malawi</option>
+                          <option id="field66" value="MY" name="country">Malaysia</option>
+                          <option id="field66" value="MV" name="country">Maldives</option>
+                          <option id="field66" value="ML" name="country">Mali</option>
+                          <option id="field66" value="MT" name="country">Malta</option>
+                          <option id="field66" value="MH" name="country">Marshall Islands</option>
+                          <option id="field66" value="MQ" name="country">Martinique</option>
+                          <option id="field66" value="MR" name="country">Mauritania</option>
+                          <option id="field66" value="MU" name="country">Mauritius</option>
+                          <option id="field66" value="YT" name="country">Mayotte</option>
+                          <option id="field66" value="MX" name="country">Mexico</option>
+                          <option id="field66" value="FM" name="country">Micronesia</option>
+                          <option id="field66" value="MD" name="country">Moldova</option>
+                          <option id="field66" value="MC" name="country">Monaco</option>
+                          <option id="field66" value="MN" name="country">Mongolia</option>
+                          <option id="field66" value="MS" name="country">Montserrat</option>
+                          <option id="field66" value="MA" name="country">Morocco</option>
+                          <option id="field66" value="MZ" name="country">Mozambique</option>
+                          <option id="field66" value="MM" name="country">Myanmar</option>
+                          <option id="field66" value="MP" name="country">N. Mariana Isls.</option>
+                          <option id="field66" value="NA" name="country">Namibia</option>
+                          <option id="field66" value="NR" name="country">Nauru</option>
+                          <option id="field66" value="NP" name="country">Nepal</option>
+                          <option id="field66" value="NL" name="country">Netherlands</option>
+                          <option id="field66" value="AN" name="country">Netherlands Antilles</option>
+                          <option id="field66" value="NC" name="country">New Caledonia</option>
+                          <option id="field66" value="NZ" name="country">New Zealand</option>
+                          <option id="field66" value="NI" name="country">Nicaragua</option>
+                          <option id="field66" value="NE" name="country">Niger</option>
+                          <option id="field66" value="NG" name="country">Nigeria</option>
+                          <option id="field66" value="NU" name="country">Niue</option>
+                          <option id="field66" value="NF" name="country">Norfolk Island</option>
+                          <option id="field66" value="NO" name="country">Norway</option>
+                          <option id="field66" value="OM" name="country">Oman</option>
+                          <option id="field66" value="PK" name="country">Pakistan</option>
+                          <option id="field66" value="PW" name="country">Palau</option>
+                          <option id="field66" value="PS" name="country">Palestinian Territory, Occupied</option>
+                          <option id="field66" value="PA" name="country">Panama</option>
+                          <option id="field66" value="PG" name="country">Papua New Guinea</option>
+                          <option id="field66" value="PY" name="country">Paraguay</option>
+                          <option id="field66" value="PE" name="country">Peru</option>
+                          <option id="field66" value="PH" name="country">Philippines</option>
+                          <option id="field66" value="PN" name="country">Pitcairn</option>
+                          <option id="field66" value="PL" name="country">Poland</option>
+                          <option id="field66" value="PT" name="country">Portugal</option>
+                          <option id="field66" value="PR" name="country">Puerto Rico</option>
+                          <option id="field66" value="QA" name="country">Qatar</option>
+                          <option id="field66" value="RE" name="country">Reunion</option>
+                          <option id="field66" value="RO" name="country">Romania</option>
+                          <option id="field66" value="RU" name="country">Russian Federation</option>
+                          <option id="field66" value="RW" name="country">Rwanda</option>
+                          <option id="field66" value="KN" name="country">Saint Kitts and Nevis</option>
+                          <option id="field66" value="LC" name="country">Saint Lucia</option>
+                          <option id="field66" value="WS" name="country">Samoa</option>
+                          <option id="field66" value="SM" name="country">San Marino</option>
+                          <option id="field66" value="ST" name="country">Sao Tome/Principe</option>
+                          <option id="field66" value="SA" name="country">Saudi Arabia</option>
+                          <option id="field66" value="SN" name="country">Senegal</option>
+                          <option id="field66" value="CS" name="country">Serbia and Montenegro</option>
+                          <option id="field66" value="SC" name="country">Seychelles</option>
+                          <option id="field66" value="SL" name="country">Sierra Leone</option>
+                          <option id="field66" value="SG" name="country">Singapore</option>
+                          <option id="field66" value="SK" name="country">Slovak Republic</option>
+                          <option id="field66" value="SI" name="country">Slovenia</option>
+                          <option id="field66" value="SB" name="country">Solomon Islands</option>
+                          <option id="field66" value="SO" name="country">Somalia</option>
+                          <option id="field66" value="ZA" name="country">South Africa</option>
+                          <option id="field66" value="ES" name="country">Spain</option>
+                          <option id="field66" value="LK" name="country">Sri Lanka</option>
+                          <option id="field66" value="SH" name="country">St. Helena</option>
+                          <option id="field66" value="PM" name="country">St. Pierre and Miquelon</option>
+                          <option id="field66" value="VC" name="country">St. Vincent and Grenadines</option>
+                          <option id="field66" value="SD" name="country">Sudan</option>
+                          <option id="field66" value="SR" name="country">Suriname</option>
+                          <option id="field66" value="SJ" name="country">Svalbard/Jan Mayen Isls.</option>
+                          <option id="field66" value="SZ" name="country">Swaziland</option>
+                          <option id="field66" value="SE" name="country">Sweden</option>
+                          <option id="field66" value="CH" name="country">Switzerland</option>
+                          <option id="field66" value="SY" name="country">Syria</option>
+                          <option id="field66" value="TW" name="country">Taiwan</option>
+                          <option id="field66" value="TJ" name="country">Tajikistan</option>
+                          <option id="field66" value="TZ" name="country">Tanzania</option>
+                          <option id="field66" value="TH" name="country">Thailand</option>
+                          <option id="field66" value="TL" name="country">Timor-Leste</option>
+                          <option id="field66" value="TG" name="country">Togo</option>
+                          <option id="field66" value="TK" name="country">Tokelau</option>
+                          <option id="field66" value="TO" name="country">Tonga</option>
+                          <option id="field66" value="TT" name="country">Trinidad and Tobago</option>
+                          <option id="field66" value="TN" name="country">Tunisia</option>
+                          <option id="field66" value="TR" name="country">Turkey</option>
+                          <option id="field66" value="TM" name="country">Turkmenistan</option>
+                          <option id="field66" value="TC" name="country">Turks/Caicos Isls.</option>
+                          <option id="field66" value="TV" name="country">Tuvalu</option>
+                          <option id="field66" value="UG" name="country">Uganda</option>
+                          <option id="field66" value="UA" name="country">Ukraine</option>
+                          <option id="field66" value="AE" name="country">United Arab Emirates</option>
+                          <option id="field66" value="US" name="country">United States</option>
+                          <option id="field66" value="UM" name="country">US Minor Outlying Is.</option>
+                          <option id="field66" value="UY" name="country">Uruguay</option>
+                          <option id="field66" value="UZ" name="country">Uzbekistan</option>
+                          <option id="field66" value="VU" name="country">Vanuatu</option>
+                          <option id="field66" value="VA" name="country">Vatican City</option>
+                          <option id="field66" value="VE" name="country">Venezuela</option>
+                          <option id="field66" value="VN" name="country">Viet Nam</option>
+                          <option id="field66" value="VG" name="country">Virgin Islands (British)</option>
+                          <option id="field66" value="VI" name="country">Virgin Islands (U.S.)</option>
+                          <option id="field66" value="WF" name="country">Wallis/Futuna Isls.</option>
+                          <option id="field66" value="EH" name="country">Western Sahara</option>
+                          <option id="field66" value="YE" name="country">Yemen</option>
+                          <option id="field66" value="ZM" name="country">Zambia</option>
+                          <option id="field66" value="ZW" name="country">Zimbabwe</option>
+                        </select>
+                        <br>
+                        <span class="selectRequiredMsg">A selection is required.</span></span></td>
+                  </tr>
+                  <tr>
+                    <td> State or Province: <br>
+                      <span id="spryselect11">
+                        <select id="state0" value="" name="state" class="" style="width: 80%">
+                          <option id="field18" value="" name="state" selected="selected">Please Select</option>
+                          <option id="field18" value="AK" name="state">Alaska</option>
+                          <option id="field18" value="AL" name="state">Alabama</option>
+                          <option id="field18" value="AR" name="state">Arkansas</option>
+                          <option id="field18" value="AS" name="state">American Samoa</option>
+                          <option id="field18" value="AZ" name="state">Arizona</option>
+                          <option id="field18" value="CA" name="state">California</option>
+                          <option id="field18" value="CO" name="state">Colorado</option>
+                          <option id="field18" value="CT" name="state">Connecticut</option>
+                          <option id="field18" value="DC" name="state">D.C.</option>
+                          <option id="field18" value="DE" name="state">Delaware</option>
+                          <option id="field18" value="FL" name="state">Florida</option>
+                          <option id="field18" value="FM" name="state">Micronesia</option>
+                          <option id="field18" value="GA" name="state">Georgia</option>
+                          <option id="field18" value="GU" name="state">Guam</option>
+                          <option id="field18" value="HI" name="state">Hawaii</option>
+                          <option id="field18" value="IA" name="state">Iowa</option>
+                          <option id="field18" value="ID" name="state">Idaho</option>
+                          <option id="field18" value="IL" name="state">Illinois</option>
+                          <option id="field18" value="IN" name="state">Indiana</option>
+                          <option id="field18" value="KS" name="state">Kansas</option>
+                          <option id="field18" value="KY" name="state">Kentucky</option>
+                          <option id="field18" value="LA" name="state">Louisiana</option>
+                          <option id="field18" value="MA" name="state">Massachusetts</option>
+                          <option id="field18" value="MD" name="state">Maryland</option>
+                          <option id="field18" value="ME" name="state">Maine</option>
+                          <option id="field18" value="MH" name="state">Marshall Islands</option>
+                          <option id="field18" value="MI" name="state">Michigan</option>
+                          <option id="field18" value="MN" name="state">Minnesota</option>
+                          <option id="field18" value="MO" name="state">Missouri</option>
+                          <option id="field18" value="MP" name="state">Marianas</option>
+                          <option id="field18" value="MS" name="state">Mississippi</option>
+                          <option id="field18" value="MT" name="state">Montana</option>
+                          <option id="field18" value="NC" name="state">North Carolina</option>
+                          <option id="field18" value="ND" name="state">North Dakota</option>
+                          <option id="field18" value="NE" name="state">Nebraska</option>
+                          <option id="field18" value="NH" name="state">New Hampshire</option>
+                          <option id="field18" value="NJ" name="state">New Jersey</option>
+                          <option id="field18" value="NM" name="state">New Mexico</option>
+                          <option id="field18" value="NV" name="state">Nevada</option>
+                          <option id="field18" value="NY" name="state">New York</option>
+                          <option id="field18" value="OH" name="state">Ohio</option>
+                          <option id="field18" value="OK" name="state">Oklahoma</option>
+                          <option id="field18" value="OR" name="state">Oregon</option>
+                          <option id="field18" value="PA" name="state">Pennsylvania</option>
+                          <option id="field18" value="PR" name="state">Puerto Rico</option>
+                          <option id="field18" value="PW" name="state">Palau</option>
+                          <option id="field18" value="RI" name="state">Rhode Island</option>
+                          <option id="field18" value="SC" name="state">South Carolina</option>
+                          <option id="field18" value="SD" name="state">South Dakota</option>
+                          <option id="field18" value="TN" name="state">Tennessee</option>
+                          <option id="field18" value="TX" name="state">Texas</option>
+                          <option id="field18" value="UT" name="state">Utah</option>
+                          <option id="field18" value="VA" name="state">Virginia</option>
+                          <option id="field18" value="VI" name="state">Virgin Islands</option>
+                          <option id="field18" value="VT" name="state">Vermont</option>
+                          <option id="field18" value="WA" name="state">Washington</option>
+                          <option id="field18" value="WI" name="state">Wisconsin</option>
+                          <option id="field18" value="WV" name="state">West Virginia</option>
+                          <option id="field18" value="WY" name="state">Wyoming</option>
+                          <option id="field18" value="AA" name="state">Military Americas</option>
+                          <option id="field18" value="AE" name="state">Military Europe/ME/Canada</option>
+                          <option id="field18" value="AP" name="state">Military Pacific</option>
+                          <option id="field18" value="AB" name="state">Alberta</option>
+                          <option id="field18" value="MB" name="state">Manitoba</option>
+                          <option id="field18" value="BC" name="state">British Columbia</option>
+                          <option id="field18" value="NB" name="state">New Brunswick</option>
+                          <option id="field18" value="NL" name="state">Newfoundland and Labrador</option>
+                          <option id="field18" value="NS" name="state">Nova Scotia</option>
+                          <option id="field18" value="NT" name="state">Northwest Territories</option>
+                          <option id="field18" value="NU" name="state">Nunavut</option>
+                          <option id="field18" value="ON" name="state">Ontario</option>
+                          <option id="field18" value="PE" name="state">Prince Edward Island</option>
+                          <option id="field18" value="QC" name="state">Quebec</option>
+                          <option id="field18" value="SK" name="state">Saskatchewan</option>
+                          <option id="field18" value="YT" name="state">Yukon Territory</option>
+                        </select>
+                        <br>
+                        <span class="textfieldRequiredMsg">A value is required.</span></span>
+                        <p style="margin-top:5px;margin-bottom:0px;padding:0;">* Required Field</p></td>
+                  </tr>
+                  <tr>
+                    <td colspan="2" align="center"><input name="submit_buton_cloud" id="s0" value="Submit" type="image" src="http://now.eloqua.com/EloquaImages/clients/AdvancedMicroDevicesAMDMAE/{f995604c-487e-4756-a365-33c96f6e5875}_DownloadNow__.png" style="font-size: 100%; width: 195px; height: 45px">
+                      <br></td>
+                  </tr>
+                  
+                </table>
+          </form>
+              <script type="text/javascript">
+															var sprytextfield1 = new Spry.Widget.ValidationTextField("sprytextfield1", "none", {
+																validateOn : ["blur"]
+															});
+															var sprytextfield2 = new Spry.Widget.ValidationTextField("sprytextfield2", "none", {
+																validateOn : ["blur"]
+															});
+                                                          //var spryselect11 = new Spry.Widget.ValidationSelect("spryselect11", {
+                                                          //	validateOn : ["blur"]
+                                                          //	});
+															var sprytextfield3 = new Spry.Widget.ValidationTextField("sprytextfield3", "none", {
+																validateOn : ["blur"]
+															});
+															var sprytextcompany = new Spry.Widget.ValidationTextField("sprytextcompany", "email", {
+																validateOn : ["blur"],
+
+																useCharacterMasking : true
+															});
+															var spryselect1 = new Spry.Widget.ValidationSelect("spryselect1", {
+																validateOn : ["blur"]
+															});
+
+														</script>
+            </div>
+          </div>
+          <div class="panel" id="Panel-2">
+            
+          </div>
+      </div>
+        <!-- .coda-slider -->
+        <div id="coda-nav-bottom" class="coda-nav"> <a href="#top"> Go to top</a> </div>
+      </div>
+    </div>
+  </div>
+  <!-- .coda-slider-wrapper -->
+
+
+
+
+
+
+
+
+</div>
+<div id="footnotes">
+&nbsp;
+
+</div>
+
+</div>
+</div>
+<div class="footer1">©2012 Advanced Micro Devices, Inc. All rights reserved.  AMD, the AMD arrow logo, and combinations thereof are trademarks of Advanced Micro Devices, Inc.<br />
+Other names are used for informational purposes only and may be trademarks of their respective owners. 
+<br /><br />
+Advanced Micro Devices, Inc., 7171 Southwest Parkway, Austin, Texas 78735 USA<br />
+Copyright 2012 | Privacy | Trademark Info
+</div>
+<script type="text/javascript" src="http://api.demandbase.com/autocomplete/widget.js"></script> 
+<script type="text/javascript" src="http://img.en25.com/Web/AdvancedMicroDevicesAMDMAE/{d3bce9a9-6761-4574-8a26-41c0776860a1}_demandbase-base-1.0.js"></script>
+<script type="text/javascript">
+// Demandbase data fields: company_name, country, title, demandbase_sid, industry, sub_industry, employee_count, primary_sic, street_address, city, companyState, zip, phone, stock_ticker,web_site, fortune_1000, forbes_2000, annual_sales, revenue_range, employee_range
+// Below are names of hidden fields, which must match with htmlName of Eloqua form fields, to be generated on form submission.  DO NOT CHANGE ORDER OF ARRAY ELEMENT.  Just rename element if
+// necessary.
+var frm_fields = new Array('companyName', 'countryName', 'title', 'demandbaseSid', 'industry', 'subIndustry', 'employeeCount', 'primarySic', 'streetAddress', 'city', 'companyState', 'zip', 'phone', 'stockTicker', 'webSite', 'fortune1000', 'forbes2000', 'annualSales', 'revenueRange', 'employeeRange');
+
+// populate form fields with data based on email address
+function populateFieldsByEmail(data, form_idx) {
+	var oForm = document.forms[form_idx];
+	var firstName = oForm["firstName"];
+
+	var lastName = oForm["lastName"];
+	
+	if (data.first_name != undefined) {			
+		if(firstName.value == "" && lastName.value == "") {
+			firstName.value = data.first_name;
+			lastName.value = data.last_name;
+		}
+	}
+
+    var company = oForm["company"];
+	// if company name is already set, do not change it as well as related fields
+	// such as country, state and city since we do not override user input
+	if (company.value == "") {
+		company.value = data.company_name;		
+		populateFieldsByCompany(data, form_idx);
+	}
+}
+
+function populateFieldsByCompany(data, form_idx) {
+		var oForm = document.forms[form_idx];
+		oForm["country"].value = data.country;
+		oForm["state"].value = data.state;
+		oForm["city"].value = data.city;
+}
+
+
+</script>
+<script type="text/javascript" src="http://api.demandbase.com/api/v2/ip.json?key=e3580ceded30f4e578bc9b3b6dd7e40c33ac4e86&callback=processIPData"></script>
+<script language="JavaScript" type="text/javascript">SCLoad();</script><script language="JavaScript" type="text/javascript">SCTrack();</script><noscript><a href="http://www.omniture.com" title="Web Analytics"> <img src="http://metrics.amd.com/b/ss/amdvglobal/1/H.20.3--NS/0?[AQB]&cdp=3&[AQE]" height="1" width="1" border="0" alt=""></a></noscript>
+</body>
+</html>
